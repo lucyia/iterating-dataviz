@@ -6,13 +6,14 @@ _**NOTE**_: this repository is just an illustration of the approach mentioned in
 
 The sample data is made up.
 
-## v0.9.2_circles
+## v0.10.1_circles
 
-![](0.9.2_circles.svg)
+![](0.10.1_circles.svg)
 
 ## Mappings
+* Lines: length - sum of elements volumes on a given level
 * Circle: level 1 and level 2
-* Position: hierarchy - elements on same level joined via links of arbitrary length
+* Position: random
 
 ## Discussion
 * Exploring different shapes and positions
