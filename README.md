@@ -6,16 +6,18 @@ _**NOTE**_: this repository is just an illustration of the approach mentioned in
 
 The sample data is made up.
 
-## v0.12.5_circles
+## v1.1.1_outer_colors
 
-![](0.12.5_circles.svg)
+![](1.1.1_outer_colors.svg)
 
 ## Mappings
+* Created from `v0.12.4_circles`
 * Circles inner: `level 1`
 * Circles outer: `level 2`
 * Lines: connected parent-child in hiearchy
 * Position: sorted acc. to `type` clockwise
 * Small circles around main elements: `type` (each near the element it describes)
+  * Color: `category` - ordinal color scale
 
 ## Discussion
 * Exploring different shapes and positions
