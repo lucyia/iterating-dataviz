@@ -1,0 +1,109 @@
+[
+  {
+    "level": 1,
+    "data": [
+      {
+        "category": "b",
+        "data": ["Hayes", "Docker", "Ingia", "Bredebrae"],
+        "volume": 10000
+      },
+      {
+        "category": "r",
+        "data": ["Hayes"],
+        "volume": 2000
+      },
+      {
+        "category": "r",
+        "data": ["Knud Rasmussen"],
+        "volume": 1000
+      },
+      {
+        "category": "r",
+        "data": ["Knud Rasmussen"],
+        "volume": 600
+      },
+      {
+        "category": "b",
+        "data": ["Karale", "Midgard", "Puisortoq"],
+        "volume": 7000
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "data": [
+      {
+        "name": "Hayes",
+        "volume": 200000,
+        "volumeChange": -7011,
+        "avgTemp": -10,
+        "avgTempChange": 2,
+        "type": "g",
+        "class": 1
+      },
+      {
+        "name": "Docker",
+        "volume": 10000,
+        "volumeChange": -419,
+        "avgTemp": -20,
+        "avgTempChange": 2.2,
+        "type": "r",
+        "class": 3
+      },
+      {
+        "name": "Ingia",
+        "volume": 1000,
+        "volumeChange": -769,
+        "avgTemp": -15,
+        "avgTempChange": 1.7,
+        "type": "o",
+        "class": 3
+      },
+      {
+        "name": "Bredebrae",
+        "volume": 2000000,
+        "volumeChange": -477,
+        "avgTemp": -25,
+        "avgTempChange": 1.3,
+        "type": "b",
+        "class": 2
+      },
+      {
+        "name": "Knud Rasmussen",
+        "volume": 500000,
+        "volumeChange": -40968,
+        "avgTemp": -20,
+        "avgTempChange": 3.4,
+        "type": "o",
+        "class": 4
+      },
+      {
+        "name": "Karale",
+        "volume": 20000,
+        "volumeChange": -669,
+        "avgTemp": -20,
+        "avgTempChange": 3.2,
+        "type": "r",
+        "class": 4
+      },
+      {
+        "name": "Midgard",
+        "volume": 10000,
+        "volumeChange": -569,
+        "avgTemp": -20,
+        "avgTempChange": 2.1,
+        "type": "p",
+        "class": 2
+      },
+      {
+        "name": "Puisortoq",
+        "volume": 4000000,
+        "volumeChange": -5669,
+        "avgTemp": -22,
+        "avgTempChange": 2.1,
+        "type": "r",
+        "class": 1
+      }
+    ]
+  }
+]
