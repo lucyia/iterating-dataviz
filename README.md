@@ -5,3 +5,17 @@ _**NOTE**_: this repository is just an illustration of the approach mentioned in
 [Iterating dataviz with designers in the loop](https://slides.com/lucyia/iterating-dataviz-with-designers-in-loop)
 
 The sample data is made up.
+
+## V0.1.1_squares
+
+![](0.1.1_squares.svg)
+
+## Mappings
+* Rectangle: level 1 - volume
+* Position: random
+
+## Discussion
+* Exploring different shapes and positions
+
+## Next steps
+* Adding meaningful data attribute to position of shapes
