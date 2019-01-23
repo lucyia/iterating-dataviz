@@ -6,13 +6,13 @@ _**NOTE**_: this repository is just an illustration of the approach mentioned in
 
 The sample data is made up.
 
-## v0.8.1_circles
+## v0.9.1_circles
 
-![](0.8.1_circles.svg)
+![](0.9.1_circles.svg)
 
 ## Mappings
 * Circle: level 1 and level 2
-* Position: hierarchy - elements contained within parent
+* Position: hierarchy - elements on same level joined
 
 ## Discussion
 * Exploring different shapes and positions
