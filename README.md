@@ -11,7 +11,7 @@ The sample data is made up.
 ![](1.1.1_outer_colors.svg)
 
 ## Mappings
-* Created from [v0.12.4_circles](https://github.com/lucyia/iterating-dataviz/tree/v0.12.4_circles)
+* Iteration on [v0.12.4_circles](https://github.com/lucyia/iterating-dataviz/tree/v0.12.4_circles)
 * Circles inner: `level 1`
 * Circles outer: `level 2`
 * Lines: connected parent-child in hiearchy
