@@ -11,10 +11,10 @@ The sample data is made up.
 ![](0.12.4_circles.svg)
 
 ## Mappings
-* Circles inner: level 1
-* Circles outer: level 2
-* Lines: connected parent - child in hiearchy
-* Position: sorted acc. to type clockwise
+* Circles inner: `level 1`
+* Circles outer: `level 2`
+* Lines: connected parent-child in hiearchy
+* Position: sorted acc. to `type` clockwise
 * Connected circles around main elements: `type`
 
 ## Discussion
