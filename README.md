@@ -6,12 +6,13 @@ _**NOTE**_: this repository is just an illustration of the approach mentioned in
 
 The sample data is made up.
 
-## v0.12.1_circles
+## v0.12.2_circles
 
-![](0.12.1_circles.svg)
+![](0.12.2_circles.svg)
 
 ## Mappings
-* Circle inner: arbitrary
+* Circle innermost: arbitrary
+* Circle inner: level 1
 * Circle outer: level 2
 * Position: sorted acc. to type clockwise
 
