@@ -6,16 +6,16 @@ _**NOTE**_: this repository is just an illustration of the approach mentioned in
 
 The sample data is made up.
 
-## v0.12.4_circles
+## v0.12.5_circles
 
-![](0.12.4_circles.svg)
+![](0.12.5_circles.svg)
 
 ## Mappings
 * Circles inner: `level 1`
 * Circles outer: `level 2`
 * Lines: connected parent-child in hiearchy
 * Position: sorted acc. to `type` clockwise
-* Connected circles around main elements: `type`
+* Small circles around main elements: `type` (each near the element it describes)
 
 ## Discussion
 * Exploring different shapes and positions
