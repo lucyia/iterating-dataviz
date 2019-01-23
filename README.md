@@ -6,16 +6,17 @@ _**NOTE**_: this repository is just an illustration of the approach mentioned in
 
 The sample data is made up.
 
-## V0.7.1_squares
+## v0.8.1_circles
 
-![](0.7.1_squares.svg)
+![](0.8.1_circles.svg)
 
 ## Mappings
-* Square: level 1 and level 2
-* Position: hierarchy - elements contained within parent - spaces in hierarchy proportional to level
+* Circle: level 1 and level 2
+* Position: hierarchy - elements contained within parent
 
 ## Discussion
 * Exploring different shapes and positions
 
 ## Next steps
 * Adding more meaningful data attribute to position of shapes
+* Creating color scales
