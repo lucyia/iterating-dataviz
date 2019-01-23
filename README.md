@@ -6,13 +6,13 @@ _**NOTE**_: this repository is just an illustration of the approach mentioned in
 
 The sample data is made up.
 
-## V0.1.2_squares
+## V0.2.1_squares
 
-![](0.1.2_squares.svg)
+![](0.2.1_squares.svg)
 
 ## Mappings
-* Rectangle: level 1 - volume
-* Position: sorted acc. to size
+* Square: level 1 - volume
+* Position: sorted acc. to size around biggest one
 
 ## Discussion
 * Exploring different shapes and positions
