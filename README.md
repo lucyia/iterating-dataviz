@@ -6,14 +6,14 @@ _**NOTE**_: this repository is just an illustration of the approach mentioned in
 
 The sample data is made up.
 
-## v0.11.1_circles
+## v0.12.1_circles
 
-![](0.11.1_circles.svg)
+![](0.12.1_circles.svg)
 
 ## Mappings
-* Lines: length - arbitrary - connected within same level
-* Circle: level 1 and level 2
-* Position: random
+* Circle inner: arbitrary
+* Circle outer: level 2
+* Position: sorted acc. to type clockwise
 
 ## Discussion
 * Exploring different shapes and positions
