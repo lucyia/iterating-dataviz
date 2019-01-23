@@ -6,13 +6,13 @@ _**NOTE**_: this repository is just an illustration of the approach mentioned in
 
 The sample data is made up.
 
-## V0.2.1_squares
+## V0.2.2_squares
 
-![](0.2.1_squares.svg)
+![](0.2.2_squares.svg)
 
 ## Mappings
 * Square: level 1 - volume
-* Position: sorted acc. to size around biggest one
+* Position: sorted acc. to size around biggest one - no space between similar objects
 
 ## Discussion
 * Exploring different shapes and positions
