@@ -6,12 +6,12 @@ _**NOTE**_: this repository is just an illustration of the approach mentioned in
 
 The sample data is made up.
 
-## v0.10.1_circles
+## v0.11.1_circles
 
-![](0.10.1_circles.svg)
+![](0.11.1_circles.svg)
 
 ## Mappings
-* Lines: length - sum of elements volumes on a given level
+* Lines: length - arbitrary - connected within same level
 * Circle: level 1 and level 2
 * Position: random
 
