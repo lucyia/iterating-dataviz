@@ -6,13 +6,13 @@ _**NOTE**_: this repository is just an illustration of the approach mentioned in
 
 The sample data is made up.
 
-## V0.5.2_squares
+## V0.6.1_squares
 
-![](0.5.2_squares.svg)
+![](0.6.1_squares.svg)
 
 ## Mappings
-* Square: level 1 - volume
-* Position: sorting acc. to size from biggest to smallest - elements connected to show hierarchy
+* Square: level 1 and level 2
+* Position: hierarchy - elements contained within parent
 
 ## Discussion
 * Exploring different shapes and positions
